@@ -8,23 +8,23 @@
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">Python</a>,
-  <a href="https://www.javascript.com" target="_blank" rel="noreferrer">JavaScript</a>,
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">Java</a>,
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">MySQL</a>,
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">PHP</a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30"/></a>
+  <a href="https://www.javascript.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/></a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30" height="30"/></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="30" height="30"/></a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="30" height="30"/></a>
 </p>
 
 <h3 align="left">Tools:</h3>
 <p align="left"> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">AWS</a>,
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">Firebase</a>,
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">Flask</a>,
-  <a href="https://www.git-scm.com/" target="_blank" rel="noreferrer">Git</a>,
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">Bootstrap</a>,
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">Docker</a>,
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">Google Cloud</a>,
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">OpenCV</a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="30" height="30"/></a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="30" height="30"/></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="30" height="30"/></a>
+  <a href="https://www.git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="30" height="30"/></a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="30" height="30"/></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="30" height="30"/></a>
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="30" height="30"/></a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="30" height="30"/></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
