@@ -13,6 +13,7 @@ Senior Software Developer @ Tribetron
 - 🔭 I’m currently a senior software developer at Tribetron
 - 💡 I love building reliable backend services and polished frontend experiences
 - 📫 Reach me at: **chotobethelp@gmail.com**
+- 📫 Check out my portifolio at: **https://bethelchoto.netlify.app/**
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
@@ -38,13 +39,6 @@ Senior Software Developer @ Tribetron
 
 ---
 
-### Featured work
-- Mobile app details and case studies are in this repository. See `portfolio-details-mobile-app.html` for an example deep dive.
-
-If you want this to be a profile README on GitHub, create a repository named exactly after your GitHub username and place this `README.md` in its root. GitHub will display it on your profile.
-
----
-
 ### Connect with me
 <p>
   <a href="https://linkedin.com/in/bethel-panashe-choto/" target="_blank"><img alt="LinkedIn" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" /></a>
@@ -52,3 +46,7 @@ If you want this to be a profile README on GitHub, create a repository named exa
 </p>
 
 ---
+
+<sub>
+Tip: If images don’t load on GitHub, check that the external URLs are accessible or replace them with local assets committed to the repo.
+</sub>
