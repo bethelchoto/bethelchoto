@@ -13,7 +13,7 @@ Senior Software Developer @ Tribetron
 - 🔭 I’m currently a senior software developer at Tribetron
 - 💡 I love building reliable backend services and polished frontend experiences
 - 📫 Reach me at: **chotobethelp@gmail.com**
-- 📫 Check out my portifolio at: **https://bethelchoto.netlify.app/**
+- 📫 Check out my portifolio at: **https://bethelchoto-portifolio.netlify.app/**
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
