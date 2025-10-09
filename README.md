@@ -49,10 +49,8 @@ If you want this to be a profile README on GitHub, create a repository named exa
 <p>
   <a href="https://linkedin.com/in/bethel-panashe-choto/" target="_blank"><img alt="LinkedIn" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" /></a>
   <a href="https://kaggle.com/b3th13chotel12" target="_blank"><img alt="Kaggle" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" /></a>
+  <a href="https://www.facebook.com/bethel.choto.33" target="_blank"><img alt="Facebook" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" /></a>
+  <a href="tel:+263786122047" target="_blank" title="Call"><span style="font-size: 18px;">📞 0786122047</span></a>
+  <a href="mailto:chotobethelp@gmail.com" target="_blank" title="Email"><img alt="Gmail" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" /></a>
 </p>
 
----
-
-<sub>
-Tip: If images don’t load on GitHub, check that the external URLs are accessible or replace them with local assets committed to the repo.
-</sub>
