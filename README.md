@@ -30,12 +30,7 @@ Hi! I'm Bethel Panashe Choto, a passionate **Senior Software Developer** special
 
 
 ### Portfolio
-🔗 [Check out my portfolio](https://bethelchoto-portifolio.netlify.app/)
-
-
-### Blog
-📘 [Visit my blog](#) for in-depth articles and tutorials on web development.
-
+🔗 [Check out my portfolio](https://bethelchoto-portfolio.netlify.app/)
 
 ---
 
@@ -61,61 +56,10 @@ Hi! I'm Bethel Panashe Choto, a passionate **Senior Software Developer** special
 
 ---
 
-
-### [Get my projects from the shop](#)
-- **Tech Stack:** Python, JavaScript, Flask, Docker and lot others more
-
-
-```javascript
-// Backend: Express server (server.js)
-const express = require('express');
-const mongoose = require('mongoose');
-const cors = require('cors');
-
-
-const app = express();
-app.use(cors());
-app.use(express.json());
-
-
-mongoose.connect('mongodb://localhost/myapp', { useNewUrlParser: true, useUnifiedTopology: true });
-
-
-const TaskSchema = new mongoose.Schema({
-  title: String,
-  completed: Boolean
-});
-
-
-const Task = mongoose.model('Task', TaskSchema);
-
-
-app.get('/api/tasks', async (req, res) => {
-  const tasks = await Task.find();
-  res.json(tasks);
-});
-
-
-app.post('/api/tasks', async (req, res) => {
-  const task = new Task(req.body);
-  await task.save();
-  res.status(201).json(task);
-});
-
-
-app.listen(5000, () => console.log('Server running on port 5000'));
-```
-
-
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bethelchoto&theme=algolia&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bethelchoto&theme=algolia&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bethelchoto&theme=algolia&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-
- ## 💰 You can support me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](#) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](#) 
-
 
 ---
 
