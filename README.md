@@ -1,7 +1,4 @@
-# Bethel Panashe Choto
-
 <div align="center">
-  <br/>
   
   <h1>Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/hand.gif" width="30px"> I'm Bethel Panashe Choto</h1>
   
@@ -91,5 +88,5 @@ I am a results-driven **Software Developer** with a passion for building scalabl
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=bethelchoto&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
   <br/>
-  <sub>Built with ❤️ by <a href="https://github.com/bethelchoto">Bethel Choto</a></sub>
+  <sub>Built with ❤️ by <a href="https://github.com/bethelchoto">Bethel Panashe Choto</a></sub>
 </div>
