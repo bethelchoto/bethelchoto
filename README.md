@@ -65,23 +65,12 @@ I am a results-driven **Software Developer** with a passion for building scalabl
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github-readme-stats-one.vercel.app/api?username=bethelchoto&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" /></td>
-      <td><img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=bethelchoto&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" /></td>
+      <td><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=bethelchoto&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" /></td>
+      <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bethelchoto&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" /></td>
     </tr>
   </table>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bethelchoto&theme=tokyonight&hide_border=true" alt="Streak" />
 </div>
-
----
-
-### 🌟 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **Vinecity Housing** | A comprehensive housing management system. | NestJS, Next.js, MySQL |
-| **StrataFlow** | Project management and workflow automation platform. | Python, Flask, React |
-| **ProcureDesk** | Procurement and role-based management system. | Laravel, Inertia, React |
-| **GeoZim Mobile** | Interactive mobile application for location services. | Flutter, Firebase |
 
 ---
 
