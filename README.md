@@ -2,7 +2,7 @@
   
   <h1>Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/hand.gif" width="30px"> I'm Bethel Panashe Choto</h1>
   
-  <h3>Software Developer | Full-Stack Architect | Problem Solver</h3>
+  <h3> Full-Stack Software Developer </h3>
 
   <p align="center">
     <a href="https://linkedin.com/in/bethel-panashe-choto/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -15,7 +15,7 @@
 
 ### 📖 About Me
 
-I am a results-driven **Software Developer** with a passion for building scalable backend architectures and intuitive frontend experiences. With a strong foundation in **Python**, **JavaScript**, and **Java**, I specialize in transforming complex requirements into robust technical solutions.
+I am a results-driven **Software Developer** with a passion for building scalable backend architectures and intuitive frontend experiences. With a strong foundation in **Python**, **Java** and **PHP**, I specialize in transforming complex requirements into robust technical solutions.
 
 - 🔭 Currently working on **Next-gen ERP systems and Cloud Infrastructures**
 - 🌱 Mastering **Microservices Architecture & Distributed Systems**
@@ -54,10 +54,10 @@ I am a results-driven **Software Developer** with a passion for building scalabl
 
 ---
 
-### 🏆 Achievements & GitHub Stats
+### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bethelchoto&theme=tokyonight&no-bg=true&margin-w=4" alt="Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bethelchoto&theme=tokyo-night" width="100%" alt="Activity Graph" />
 </div>
 
 <br/>
