@@ -1,8 +1,6 @@
 # Bethel Panashe Choto
 
 <div align="center">
-  <img src="profile-banner.png" width="100%" alt="Bethel's Banner" />
-  
   <br/>
   
   <h1>Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/hand.gif" width="30px"> I'm Bethel Panashe Choto</h1>
@@ -26,7 +24,7 @@ I am a results-driven **Software Developer** with a passion for building scalabl
 - 🌱 Mastering **Microservices Architecture & Distributed Systems**
 - 🤝 Open to collaborating on **mutually beneficial Open Source projects**
 - 📚 Always eager to **learn new technologies and expand my technical horizon**
-- 💬 Ask me about **Full-stack development, Python optimization, or AI integration**
+- 💬 Ask me about **Full-stack development, Java systems, Python optimization, or AI integration**
 - ⚡ Fun fact: I find as much joy in deleting redundant code as I do in writing new features—simplicity is the ultimate sophistication.
 
 ---
