@@ -27,7 +27,7 @@ I am a results-driven **Software Developer** with a passion for building scalabl
 - 🤝 Open to collaborating on **mutually beneficial Open Source projects**
 - 📚 Always eager to **learn new technologies and expand my technical horizon**
 - 💬 Ask me about **Full-stack development, Python optimization, or AI integration**
-- ⚡ Fun fact: I love exploring the intersection of **Computer Vision** and real-world automation.
+- ⚡ Fun fact: I find as much joy in deleting redundant code as I do in writing new features—simplicity is the ultimate sophistication.
 
 ---
 
