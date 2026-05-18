@@ -2,7 +2,7 @@
   
   <h1>Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/hand.gif" width="30px"> I'm Bethel Panashe Choto</h1>
   
-  <h3> Full-Stack Software Developer </h3>
+  <h3> Backend Software Engineer (Java) </h3>
 
   <p align="center">
     <a href="https://linkedin.com/in/bethel-panashe-choto/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
